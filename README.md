@@ -40,5 +40,6 @@ AI-VIS 1.0 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cy
 | aivis-1.0  |  67M   | 2024/3 | [HF🤗](https://huggingface.co/Dapiya/aivis-1.0) |
 | aivis-1.5-small  |  67M   | 2024/9 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) |
 | aivis-1.5-large  |  263M   | 2024/12 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) |
+| aivis-2.0  |  TODO   | TODO | TODO |
 
 *Params are counting the generator only, as only the generator is used during inference, and the discriminator is very small compared to the generator.
