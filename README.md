@@ -4,7 +4,7 @@ AI-VIS is a Conditional GAN (cGAN) based model that simulates visible imagery fr
 
 The model is trained and tested on Himawari-8/9 Full Disk and Target Area data, and we has been tested on other modern satellites including GOES-R series and GK-2A.
 
-This repository will provide codes for the model architecture, training, and testing.
+This repository will provide codes of the model architecture, training, and testing.
 
 # What's new on AI-VIS 2.0
 
@@ -12,7 +12,7 @@ TODO
 
 # License
 
-License for this repo is **Apache 2.0**.
+This repository is licensed under the **Apache 2.0 License**.
 
 Additional terms: All images generated using AI-VIS that are made publicly available must be marked as AI-VIS generated to avoid confusion with real visible imagery.
 
@@ -33,7 +33,7 @@ AI-VIS 1.0 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cy
   doi={10.1109/JSTARS.2025.3567074}}
 ```
 
-# Models List of AI-VIS
+# Versions of AI-VIS
 
 | Model Name | Params* | Training Finish Time | Weights |
 |------------|--------|---------------------| -------|
