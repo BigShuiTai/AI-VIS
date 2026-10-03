@@ -8,7 +8,7 @@ This repository will provide codes of the model architecture, training, and test
 
 # What's new on AI-VIS 2.0
 
-Check this post: [AI-VIS 2.0 Changelog](https://www.tyboard.net/forum.php?mod=redirect&goto=findpost&ptid=577&pid=293166)
+AI-VIS 2.0 Changelog: [百度贴吧](https://tieba.baidu.com/p/8618092234?fid=22107&pid=153989557345#153989557345) / [TYBoard](https://www.tyboard.net/forum.php?mod=redirect&goto=findpost&ptid=577&pid=293166)
 
 # License
 
