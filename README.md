@@ -8,7 +8,7 @@ This repository will provide codes of the model architecture, training, and test
 
 # What's new on AI-VIS 2.0
 
-TODO
+Check this post: [AI-VIS 2.0 Changelog](https://www.tyboard.net/forum.php?mod=redirect&goto=findpost&ptid=577&pid=293166)
 
 # License
 
@@ -40,6 +40,6 @@ AI-VIS 1.0 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cy
 | aivis-1.0  |  67M   | 2024/3 | [HF🤗](https://huggingface.co/Dapiya/aivis-1.0) |
 | aivis-1.5-small  |  67M   | 2024/9 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) |
 | aivis-1.5-large  |  263M   | 2024/12 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) |
-| aivis-2.0  |  TODO   | TODO | TODO |
+| aivis-2.0  |  130M   | 2026/10 | TODO |
 
 *Params are counting the generator only, as only the generator is used during inference, and the discriminator is very small compared to the generator.
