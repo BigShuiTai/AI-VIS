@@ -6,7 +6,9 @@ The model is trained and tested on Himawari-8/9 Full Disk and Target Area data, 
 
 This repository will provide codes of the model architecture, training, and testing.
 
-# What's new on AI-VIS 2.0
+# What's new on AI-VIS 2.0 Series
+
+AI-VIS 2.5 Changelog: TODO
 
 AI-VIS 2.0 Changelog: [百度贴吧](https://tieba.baidu.com/p/8618092234?fid=22107&pid=153989557345#153989557345) / [TYBoard](https://www.tyboard.net/forum.php?mod=redirect&goto=findpost&ptid=577&pid=293166)
 
