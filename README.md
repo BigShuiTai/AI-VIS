@@ -37,14 +37,14 @@ AI-VIS 1.0 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cy
 
 # Versions of AI-VIS
 
-| Model Name | Params* | Training Finish Time | Weights | Remark |
-|------------|--------|---------------------|-------|-------|
-| aivis-1.0  |  67M   | 2024/3 | [HF🤗](https://huggingface.co/Dapiya/aivis-1.0) | SSIM-only, LSGAN-based |
-| aivis-1.5-small  |  67M   | 2024/9 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) | Use SSIM + LPIPS |
-| aivis-1.5-large  |  263M   | 2024/12 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) | Larger Network of 1.5 |
-| aivis-2.0  |  130M   | 2026/10 | TODO | ConvNeXt-style, RaGAN-based |
-| aivis-2.5-tiny  |  2.75M   | TODO | TODO | Use ShuffleNet-style |
-| aivis-2.5-base  |  8.04M   | TODO | TODO | Larger Network of 2.5 |
-| aivis-2.5-large |  20.93M  | TODO | TODO | Larger Network of 2.5 |
+|    Model Name   |  Params* | Training Finish Time | Weights | Remarks |
+|-----------------|----------|----------------------|---------|---------|
+| aivis-1.0       |  67M     | 2024/3  | [HF🤗](https://huggingface.co/Dapiya/aivis-1.0) | SSIM-only, LSGAN-based |
+| aivis-1.5-small |  67M     | 2024/9  | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) | Use SSIM + LPIPS |
+| aivis-1.5-large |  263M    | 2024/12 | [Request form](https://docs.google.com/forms/d/1dBqFUJSB15ZhTCaj-W_WARUyOnBhL5cQANw7tEZhgeo) | Larger Network of 1.5 |
+| aivis-2.0       |  130.17M | 2026/10 | TODO | ConvNeXt-style, RaGAN-based |
+| aivis-2.5-tiny  |  2.75M   | 2026/11 | TODO | Use ShuffleNet-style |
+| aivis-2.5-base  |  8.04M   | 2026/11 | TODO | Larger Network of 2.5 |
+| aivis-2.5-large |  20.93M  | 2026/11 | TODO | Larger Network of 2.5 |
 
 *Params are counting the generator only, as only the generator is used during inference, and the discriminator is very small compared to the generator.
